@@ -19,5 +19,5 @@ export PATH=$PATH:/usr/local/phantomjs-2.1.1-linux-x86_64/bin
 # 执行下边命令，使环境变量生效
 source /etc/profile
 # 执行下面命令，安装成功则有版本号返回
-phantojs --version
+phantomjs --version
 ```
