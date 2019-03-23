@@ -1,20 +1,5 @@
-[INFO  - 2019-03-23T13:19:03.058Z] GhostDriver - Main - running on port 36001
-[INFO  - 2019-03-23T13:19:03.967Z] Session [3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2019-03-23T13:19:03.967Z] Session [3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa] - page.customHeaders:  - {}
-[INFO  - 2019-03-23T13:19:03.967Z] Session [3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2019-03-23T13:19:03.967Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa
-[INFO  - 2019-03-23T13:24:03.057Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[ERROR - 2019-03-23T13:25:43.931Z] Session [3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa] - page.onError - msg: TypeError: undefined is not a function (evaluating 'jQuery1102044076251657679677_1553347336935')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-03-23T13:25:43.931Z] Session [3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa] - page.onError - stack:
-  global code (https://m.baidu.com/sugrec?pre=1&p=3&ie=utf-8&json=1&prod=wise&from=wise_web&sugsid=1452,21120,28721,28558,28697,28584,28603,28626,28606&wd=hel&req=2&csor=3&pwd=he&cb=jQuery1102044076251657679677_1553347336935&_=1553347336939:1)
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-03-23T13:25:43.931Z] Session [3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa] - page.onError - msg: TypeError: undefined is not a function (evaluating 'jQuery1102044076251657679677_1553347336935')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-03-23T13:25:43.931Z] Session [3acaeeb0-4d6e-11e9-a03c-75ecd379f4fa] - page.onError - stack:
-  global code (https://m.baidu.com/sugrec?pre=1&p=3&ie=utf-8&json=1&prod=wise&from=wise_web&sugsid=1452,21120,28721,28558,28697,28584,28603,28626,28606&wd=hell&req=2&csor=4&pwd=hel&cb=jQuery1102044076251657679677_1553347336935&_=1553347336940:1)
-
-  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-23T14:54:43.293Z] GhostDriver - Main - running on port 45055
+[INFO  - 2019-03-23T14:54:44.224Z] Session [9840a3c0-4d7b-11e9-bfbf-9375cfebcf42] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-03-23T14:54:44.224Z] Session [9840a3c0-4d7b-11e9-bfbf-9375cfebcf42] - page.customHeaders:  - {}
+[INFO  - 2019-03-23T14:54:44.224Z] Session [9840a3c0-4d7b-11e9-bfbf-9375cfebcf42] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-03-23T14:54:44.224Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9840a3c0-4d7b-11e9-bfbf-9375cfebcf42
